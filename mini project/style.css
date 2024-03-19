@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+body{
+     background-color: #6892e0;
+}
+.logo{
+    font-family: "Titan One", sans-serif;
+}
+nav{
+    background-color: #162456;
+}
+
+.image{
+    position: absolute;
+}
+
+.image-1{
+    top: 10px;
+    left: 520px;
+}
+
+.image-2{
+    top: 200px;
+}
